@@ -1,0 +1,27 @@
+.st{
+    width:50%;
+    height: 600px;
+    border-radius: 20px;
+    background-color:  whitesmoke;
+    display: flex;
+}
+.nd{
+    width: 70%;
+    display: inline-block;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    border-radius: 50%;
+}
+.name{
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.s_name{
+    padding-left: 20px;
+    margin-top: -18px;
+}
