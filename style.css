@@ -64,12 +64,15 @@
    padding: 8px 8px;
 }
 .post{
-    
     height: 50px;
     padding: 5px;
     background-color: rgb(224, 226, 226);
     border:1px solid rgb(70, 70, 70);
     display: flex;
+}
+.post button{
+    border-radius: 20px;
+    width: 100px;
 }
 .input-img{
     width: 50px;
